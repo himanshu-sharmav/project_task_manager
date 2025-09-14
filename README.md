@@ -374,7 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Developer**: Himanshu Sharma  
 **Email**: your.email@example.com  
-**Project Link**: [https://github.com/your-username/project-task-manager](https://github.com/himanshu-sharmav/project_task_manager)
+**Project Link**: [https://github.com/himanshu-sharmav/project_task_manager](https://github.com/himanshu-sharmav/project_task_manager)
 
 ## 🙏 Acknowledgments
 
