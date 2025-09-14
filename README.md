@@ -373,7 +373,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Developer**: Himanshu Sharma  
-**Email**: your.email@example.com  
+**Email**: himanshusharma.dev80@gmail.com
 **Project Link**: [https://github.com/himanshu-sharmav/project_task_manager](https://github.com/himanshu-sharmav/project_task_manager)
 
 ## 🙏 Acknowledgments
@@ -381,9 +381,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Django and DRF communities for excellent documentation
 - Celery team for robust background task processing
 - Redis team for reliable message broker
-- All contributors and testers
+
 
 ***
 
-**Note**: This project was created as part of a Django internship assignment demonstrating proficiency in Django models, signals, REST APIs, authentication, background tasks, and testing.
 
